@@ -6,12 +6,6 @@ Designed to work seamlessly across all devices.
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Add your deployed link here
-
----
-
 ## 🛠️ Tech Stack
 
 HTML5 • CSS3 • JavaScript (Vanilla)
@@ -37,7 +31,7 @@ HTML5 • CSS3 • JavaScript (Vanilla)
 
 ## 📸 Preview
 
-*Add a screenshot or GIF here*
+https://github.com/user-attachments/assets/f140c843-0cae-4c6c-8089-e26be300dc5a
 
 ---
 
@@ -87,8 +81,3 @@ HTML5 • CSS3 • JavaScript (Vanilla)
 This project was developed as part of an internship project review, focusing on real-world API integration and frontend development.
 
 ---
-
-If you want, I can also:
-
-* Turn this into a **visually premium README (with badges + icons)**
-* Or align it with your **other 44 projects for consistency**
